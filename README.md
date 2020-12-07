@@ -37,8 +37,8 @@ User has a busy schedule
       HTML, CSS, Bootstrap, JavaScript 
       
  ## Deployed Sites ##
-* [Github Repo](https://github.com/natcarvajal/Password-Generator)
-* [Deployed Link](https://natcarvajal.github.io/Password-Generator/)
+* [Github Repo]()
+* [Deployed Link]()
 
 
 
