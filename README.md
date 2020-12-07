@@ -7,7 +7,7 @@ It will have a clean and polished user interface that is responsive, ensuring th
 
 ## Purpose: ##
 
-* User has a busy schedule
+User has a busy schedule
 * They need to add important events to a daily planner
 * So that the user can manage my time effectively
 
