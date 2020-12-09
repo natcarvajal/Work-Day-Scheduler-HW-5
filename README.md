@@ -34,7 +34,7 @@ User has a busy schedule
   
  ## Languages Used: ##
   
-      HTML, CSS, Bootstrap, JavaScript 
+      HTML, CSS, Bootstrap, JavaScript, Jquery 
       
  ## Deployed Sites ##
 * [Github Repo]()
