@@ -34,6 +34,7 @@ $(document).ready(() => {
     }
     </div>
     <textarea class="col-sm-10 col-md-10 description ${time_class}">
+    ${localStorage.getItem(i) ? localStorage.getItem(i) : ""}
     </textarea>
     <div hour=${i} class="col-sm-1 col-md-1 saveBtn">
       <i class="fas fa-save fa-lg"></i>
