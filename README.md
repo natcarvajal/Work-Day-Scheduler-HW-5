@@ -37,7 +37,7 @@ User has a busy schedule
       HTML, CSS, Bootstrap, JavaScript, Jquery 
       
  ## Deployed Sites ##
-* [Github Repo]()
+* [Github Repo](https://github.com/natcarvajal/Work-Day-Scheduler-HW-5)
 * [Deployed Link]()
 
 
