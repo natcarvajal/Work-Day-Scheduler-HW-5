@@ -2,7 +2,7 @@
 
 This week’s homework required to create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-I chose [Day.js](https://day.js.org/) as my library.
+* I chose [Day.js](https://day.js.org/) as my library.
 
 
 ## Purpose: ##
@@ -38,7 +38,7 @@ User has a busy schedule
       
  ## Deployed Sites ##
 * [Github Repo](https://github.com/natcarvajal/Work-Day-Scheduler-HW-5)
-* [Deployed Link]()
+* [Deployed Link](https://natcarvajal.github.io/Work-Day-Scheduler-HW-5/)
 
 
 
