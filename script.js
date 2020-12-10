@@ -29,13 +29,13 @@ $(document).ready(() => {
     // Given the hour determine if it is past present or future
     // Given the hour, figure out if it is AM or PM
     $(".container").append(`<div class="row">
-    <div class="col-md-1 ${time_class}" id="9">${i > 12 ? i - 12 : i} ${
+    <div class="col-sm-1 col-md-1" id="9">${i > 12 ? i - 12 : i} ${
       i > 11 ? "PM" : "AM"
     }
     </div>
-    <textarea class="col-md-10 description">
+    <textarea class="col-sm-10 col-md-10 description ${time_class}">
     </textarea>
-    <div hour=${i} class="col-md-1 saveBtn">
+    <div hour=${i} class="col-sm-1 col-md-1 saveBtn">
       <i class="fas fa-save fa-lg"></i>
     </div>
   </div>`);
@@ -43,20 +43,16 @@ $(document).ready(() => {
   // * WHEN I click the save button for that time block
   // * THEN the text for that event is saved in local storage
 
-  // Create an event listener for the save button
+  //Create an event listener for the save button
   $(".container").on("click", ".saveBtn", function () {
     let hour = $(this).attr("hour");
     let text = $(this).siblings("textarea")[0];
-    console.log(text.value);
+    text = text.value.trim();
     // Get text from input
+    // Save to local storage
+    localStorage.setItem(hour, text);
   });
-
-  // Save to local storage
-  localStorage.setItem;
 
   // * WHEN I refresh the page
   // * THEN the saved events persist
 });
-
-// WHEN I refresh the page
-// THEN the saved events persist
