@@ -1,9 +1,9 @@
 # Work-Day-Scheduler-HW-5
 
-(Edit below to fit homeowrk) 
-This week’s homework required to create an application that an employee can use to generate a random password based on criteria they’ve selected. 
-This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code. 
-It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
+This week’s homework required to create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+
+I chose [Day.js](https://day.js.org/) as my library.
+
 
 ## Purpose: ##
 
