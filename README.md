@@ -29,7 +29,7 @@ User has a busy schedule
   
   ## Image of Work Day Scheduler: ##
   
-  ![main page of the Work Day Scheduler ](Images/password-generator-img.png)
+  ![main page of the Work Day Scheduler ](image/scheduler-img.png)
   
   
  ## Languages Used: ##
